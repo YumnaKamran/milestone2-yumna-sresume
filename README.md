@@ -1,13 +1,15 @@
-Milestone 1: Static Interactive Resume Builder (100 Points)
+Milestone 2: Publish on GitHub and Host on Vercel 
 
 Objective:
-Build a static resume using HTML, CSS, and TypeScript.
+Publish your static resume created in Milestone 1 to GitHub and deploy it live using Vercel.
 
 Requirements:
- Create a static resume with sections like:
-o Personal Information (Name, Contact Details, Profile Picture)
-o Education
-o Skills
-o Work Experience
- Use TypeScript to add basic interactivity, such as a button to toggle the visibility of the
-"Skills" section or other sections. 
+ Push the project code to a GitHub repository.
+ Deploy the project on Vercel so that the resume is publicly accessible.
+Scoring Breakdown:
+ GitHub Repository Setup and Organization (50 points):
+o Is the code properly committed and pushed to a GitHub repository?
+o Is the repository well-organized with proper folder structures and file naming
+conventions?
+ Successful Deployment on Vercel (50 points):
+o Is the resume successfully deployed and accessible online via Vercel?  
